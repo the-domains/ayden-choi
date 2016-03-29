@@ -1,0 +1,28 @@
+name: Ayden Choi
+favicon: null
+layout_spectrum: 0.2011424764059484
+typography_spectrum: 0.6657766161952168
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9151980187743902
+  lightness: 0.08861560584045947
+  saturation: 0.8502059034071863
+  rhythmicContrast: 0.2109305269550532
+purpose: []
