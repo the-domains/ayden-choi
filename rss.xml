@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ayden Choi]]></title>
         <description><![CDATA[Ayden Choi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ayden-choi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 01:46:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 01:51:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ayden-choi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bc26000-f866-4058-ac52-7eb69cd0a5f9.jpg">]]></description>
+            <link>https://thegrid.ai/ayden-choi/dbe96258-56b1-4d18-b8f1-e7a88836ef25/index.html</link>
+            <guid isPermaLink="false">dbe96258-56b1-4d18-b8f1-e7a88836ef25</guid>
+            <pubDate>Tue, 29 Mar 2016 01:50:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3afd8644-1e67-4721-968a-ae6cbf84b15a.jpg">]]></description>
-            <link>undefinedwelcome-ayden-041215/index.html</link>
+            <link>https://thegrid.ai/ayden-choi/welcome-ayden-041215/index.html</link>
             <guid isPermaLink="false">981c96df-960a-441c-b906-b44da48deb35</guid>
             <pubDate>Tue, 29 Mar 2016 01:46:24 GMT</pubDate>
         </item>
