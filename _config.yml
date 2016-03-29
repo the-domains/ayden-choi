@@ -1,7 +1,7 @@
 name: Ayden Choi
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.6657766161952168
+layout_spectrum: 0.24248
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.9151980187743902
-  lightness: 0.08861560584045947
-  saturation: 0.8502059034071863
-  rhythmicContrast: 0.2109305269550532
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
